@@ -1,0 +1,12 @@
+# Normalize line endings: store and check out text files as LF on every OS
+* text=auto eol=lf
+
+# Binary files
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.glb binary
+*.gltf binary
